@@ -1,4 +1,4 @@
-# Модуль 1. Занятие 1. Переменные, типы и операторы
+<!-- # Модуль 1. Занятие 1. Переменные, типы и операторы
 
 ## Example 1 - Базовые математические операторы
 
@@ -173,4 +173,4 @@ console.log(minutes);
 const doubleDigitHours = String(hours).padStart(2, 0);
 const doubleDigitMinutes = String(minutes).padStart(2, 0);
 console.log(`${doubleDigitHours}:${doubleDigitMinutes}`);
-```
+``` -->
